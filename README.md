@@ -1,5 +1,9 @@
 # ResNet
 
+参考rknn_model_zoo的resnet例程：https://github.com/airockchip/rknn_model_zoo/tree/main/examples/resnet
+
+
+
 ## Model Source
 The model used in this example comes from the following open source projects:  
 https://github.com/onnx/models/raw/main/vision/classification/resnet/model/resnet50-v2-7.onnx
