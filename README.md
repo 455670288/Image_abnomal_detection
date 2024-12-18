@@ -1,6 +1,6 @@
 # ResNet
 
-参考rknn_model_zoo的resnet例程：https://github.com/airockchip/rknn_model_zoo/tree/main/examples/resnet
+Refer to the resnet demo from rknn_model_zoo. https://github.com/airockchip/rknn_model_zoo/tree/main/examples/resnet
 
 
 
